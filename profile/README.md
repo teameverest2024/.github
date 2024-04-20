@@ -1,6 +1,6 @@
 # Ring AI
 
-![photo_2024-04-10_04-07-36](https://github.com/teameverest2024/.github/assets/98017802/3bfe6d71-c476-4826-b420-128c83523b76)
+<img src="[link/to/logo.png](https://github.com/teameverest2024/.github/assets/98017802/3bfe6d71-c476-4826-b420-128c83523b76)" alt="Ring AI Logo" width="200px">
 
 
 ## Introduction
