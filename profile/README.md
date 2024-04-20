@@ -41,4 +41,6 @@ Ready to revolutionize your customer service operations with AI-powered assistan
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+All services are licensed. 
+
+Since 2024
