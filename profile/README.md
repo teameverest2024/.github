@@ -1,6 +1,7 @@
 # Ring AI
 
-![Ring AI Logo](![photo_2024-04-10_04-07-36](https://github.com/teameverest2024/.github/assets/98017802/b01049b4-3a5c-40c3-adbc-75ef5d6be061))
+![photo_2024-04-10_04-07-36](https://github.com/teameverest2024/.github/assets/98017802/3bfe6d71-c476-4826-b420-128c83523b76)
+
 
 ## Introduction
 
